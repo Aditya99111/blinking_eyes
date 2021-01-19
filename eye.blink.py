@@ -1,3 +1,7 @@
+''' Created by -Aditya Mittal
+   just import the packages mentioned in requirements.txt file
+   and enjoy your eyes health
+'''
 import time
 from plyer import notification
 while True:
